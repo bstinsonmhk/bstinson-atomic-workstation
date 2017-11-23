@@ -366,7 +366,7 @@
 		"setroubleshoot-server",
 		"setup",
 		"setuptool",
-		"sg3-utils",
+		"sg3_utils",
 		"sgabios-bin",
 		"sgpio",
 		"shadow-utils",
