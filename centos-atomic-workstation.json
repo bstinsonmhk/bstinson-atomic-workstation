@@ -128,7 +128,7 @@
 		"dos2unix",
 		"dracut-config-generic",
 		"dracut-network",
-		"e2fsprogs"
+		"e2fsprogs",
 		"ebtables",
 		"efibootmgr",
 		"eog",
