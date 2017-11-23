@@ -454,9 +454,9 @@
     "default_target": "graphical.target",
 
     "remove-from-packages": [
-                                ["yum", "/usr/bin/.*"],
+                                ["yum", "/usr/bin/.*"]
                             ],
 
-    "units": ["docker.service", "tuned.service", "docker-storage-setup.service"],
+    "units": ["docker.service", "tuned.service", "docker-storage-setup.service"]
 
 }
