@@ -87,7 +87,7 @@
 		"bc",
 		"bind-license",
 		"bind-utils",
-		"bios-devname",
+		"biosdevname",
 		"bluez-cups",
 		"bridge-utils",
 		"btrfs-progs",
