@@ -121,7 +121,7 @@
 		"dmidecode",
 		"dmraid",
 		"dmraid-events",
-		"docker-latest",
+		"docker",
 		"docker-lvm-plugin",
 		"docker-novolume-plugin",
 		"dos2unix",
