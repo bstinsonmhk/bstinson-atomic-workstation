@@ -99,8 +99,6 @@
 		"cheese",
 		"chrony",
 		"cifs-utils",
-		"cloud-init",
-		"cloud-utils-growpart",
 		"cockpit-shell",
 		"cockpit-bridge",
                 "cockpit-docker",
