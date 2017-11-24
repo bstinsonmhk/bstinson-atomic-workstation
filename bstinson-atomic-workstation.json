@@ -1,0 +1,43 @@
+{
+	"include": "centos-atomic-workstation.json",
+	"ref": "bstinson-atomic-host/7/x86_64/workstation",
+	"automatic_version_prefix": "7.2017",
+	"mutate-os-release": "7",
+	"repos": ["epel","epel-testing",'bstinson'],
+	"packages": [
+			'epel-release',
+			'@development',
+			'i3',
+			'i3status',
+			'py3status',
+			'acpi',
+			'hub',
+			'openconnect',
+			'NetworkManager-openconnect',
+			'wget',
+			'google-chrome',
+			'isync',
+			'xlockmore,
+			'make',
+			'gcc',	
+			'vim-ehnanced',
+			'zsh',
+			'msmtp','
+			'bugwarrior',
+			'taskwarrior',
+			'flatpak',
+			'flatpak-builder',
+			'ansible',
+			'libvirt',
+			' rxvt-unicode-256color-ml',
+			'pass',
+			'htop',
+			'pulseaudio',
+			'pulseaudio-libs',
+			'pulseaudio-equalizer',
+			'pavumeter',
+			'pavucontrol',
+			'paman'
+
+		    ]
+}
