@@ -319,8 +319,6 @@
 		"openssh-clients",
 		"openssh-server",
 		"orca",
-		"ostree-grub2",
-		"PackageKit-gstreamer-plugin",
 		"paktype-naskh-basic-fonts",
 		"pam_krb5",
 		"paps",
