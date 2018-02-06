@@ -1,5 +1,5 @@
 [bstinson-internal]
 name=Internal repo
-baseurl=http://nikolai.bstinson.lan/bstinson-internal/centos/7/x86_64
+baseurl=http://repos.bstinson.com/centos/7/x86_64
 gpgcheck=0
 enabled=1
