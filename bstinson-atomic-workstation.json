@@ -37,7 +37,17 @@
 			'pulseaudio-equalizer',
 			'pavumeter',
 			'pavucontrol',
-			'paman'
-
+			'paman',
+                        'NetworkManager-openconnect-gnome',
+                        'centos-release-openshift-origin', 
+                        'evince', 
+                        'gnome-tweak-tool',
+                        'google-cloud-sdk',
+                        'network-manager-applet',
+                        'origin-clients', 
+                        'python-virtualenvwrapper',
+                        'sshuttle',
+                        'unbound', 
+                        'virt-install'
 		    ]
 }
