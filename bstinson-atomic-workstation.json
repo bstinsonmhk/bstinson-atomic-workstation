@@ -43,6 +43,9 @@
                         'python-virtualenvwrapper',
                         'sshuttle',
                         'unbound',
-                        'virt-install'
+                        'virt-install',
+                        'powertop',
+                        'tlp',
+                        'tlp-rdw'
 		    ]
 }
