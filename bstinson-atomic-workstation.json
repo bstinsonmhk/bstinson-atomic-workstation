@@ -13,7 +13,7 @@
 			'hub',
 			'openconnect',
 			'NetworkManager-openconnect',
-                        'NetworkManger-openconnect-gnome',
+                        'NetworkManager-openconnect-gnome',
 			'wget',
 			'google-chrome',
 			'isync',
