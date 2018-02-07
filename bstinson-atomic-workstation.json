@@ -3,7 +3,7 @@
 	"ref": "bstinson-atomic-host/7/x86_64/workstation",
 	"automatic_version_prefix": "7.2018",
 	"mutate-os-release": "7",
-	"repos": ["epel","epel-testing","bstinson-internal","google-chrome","kernel-experimental","centos-openshift-origin-testing"],
+	"repos": ["epel","epel-testing","bstinson-internal","google-chrome","kernel-experimental","centos-openshift-origin-testing","google-cloud-sdk"],
 	"packages": [
 			'epel-release',
 			'i3',
