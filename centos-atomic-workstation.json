@@ -185,6 +185,7 @@
 		"google-noto-sans-tai-viet-fonts",
 		"grub2",
 		"grub2-efi-x64",
+                "ostree-grub2",
 		"gutenprint",
 		"gutenprint-cups",
 		"gvfs-afc",
