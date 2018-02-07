@@ -3,7 +3,7 @@
 	"ref": "bstinson-atomic-host/7/x86_64/workstation",
 	"automatic_version_prefix": "7.2018",
 	"mutate-os-release": "7",
-	"repos": ["epel","epel-testing","bstinson-internal","google-chrome","kernel-experimental"],
+	"repos": ["epel","epel-testing","bstinson-internal","google-chrome","kernel-experimental","centos-openshift-origin-testing"],
 	"packages": [
 			'epel-release',
 			'i3',
@@ -13,6 +13,7 @@
 			'hub',
 			'openconnect',
 			'NetworkManager-openconnect',
+                        'NetworkManger-openconnect-gnome'
 			'wget',
 			'google-chrome',
 			'isync',
@@ -33,6 +34,15 @@
 			'htop',
 			'pulseaudio',
 			'pulseaudio-libs',
-			'pavucontrol'
+			'pavucontrol',
+                        'evince',
+                        'gnome-tweak-tool',
+                        'google-cloud-sdk',
+                        'network-manager-applet',
+                        'origin-clients',
+                        'python-virtualenvwrapper',
+                        'sshuttle',
+                        'unbound',
+                        'virt-install'
 		    ]
 }
